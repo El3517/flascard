@@ -1,0 +1,77 @@
+.JS-text{
+    display: none;
+}
+button{
+    font-family: cursive;
+    font-size: 30px;
+}
+.jumbotron{
+    text-align: center;
+    background-color: grey;
+    font-family: cursive;
+    color: white;
+}
+.intro{
+    font-size: 20px;
+    font-family: monospace;
+}
+.card{
+    margin-top: 30px;
+}
+ul{
+    font-size: 20px;
+}
+.OP-text{
+    display: none;
+}
+.Var-text{
+    display: none;
+}
+.Nam-text{
+    display: none;
+}
+.Fun-text{
+    display: none;
+}
+.Met-text{
+    display: none;
+}
+.Arg-text{
+    display: none;
+}
+.Para-text{
+    display: none;
+}
+.Ret-text{
+    display: none;
+}
+.Chan-text{
+    display: none;
+}
+.strin-text{
+    display: none;
+}
+.Boo-text{
+    display: none;
+}
+.Und-text{
+    display: none;
+}
+.NaN-text{
+    display: none;
+}
+.Null-text{
+    display: none;
+}
+.Alt-text{
+    display: none;
+}
+.Com-text{
+    display: none;
+}
+.Atr-text{
+    display: none;
+}
+.JQ-text{
+    display: none;
+}

@@ -1,0 +1,64 @@
+$(document).ready(function(){
+    $(".JS-title").click(function(){
+        $(".JS-text").slideToggle();
+    });
+    $(".OP-title").click(function(){
+        $(".OP-text").slideToggle();
+    });
+    $(".Var-title").click(function(){
+        $(".Var-text").slideToggle()
+    });
+    $(".Nam-title").click(function(){
+        $(".Nam-text").fadeToggle()
+    });
+    $(".Fun-title").click(function(){
+        $(".Fun-text").fadeToggle()
+    });
+    $(".Met-title").click(function(){
+        $(".Met-text").fadeToggle()
+    });
+    $(".Arg-title").click(function(){
+        $(".Arg-text").slideToggle()
+    });
+    $(".Para-title").click(function(){
+        $(".Para-text").slideToggle()
+    });
+    $(".Ret-title").click(function(){
+        $(".Ret-text").slideToggle()
+    });
+    $(".Chan-title").click(function(){
+        $(".Chan-text").fadeToggle()
+    });
+    $(".strin-title").click(function(){
+        $(".strin-text").fadeToggle()
+    });
+    $(".Boo-title").click(function(){
+        $(".Boo-text").fadeToggle()
+    });
+    $(".Und-title").click(function(){
+        $(".Und-text").slideToggle()
+    });
+    $(".NaN-title").click(function(){
+        $(".NaN-text").slideToggle()
+    });
+    $(".Null-title").click(function(){
+        $(".Null-text").slideToggle()
+    });
+    $(".Alt-title").click(function(){
+        $(".Alt-text").fadeToggle()
+    });
+    $(".Com-title").click(function(){
+        $(".Com-text").fadeToggle()
+    });
+    $(".Atr-title").click(function(){
+        $(".Atr-text").fadeToggle()
+    });
+    $(".JQ-title").click(function(){
+        $(".JQ-text").slideToggle()
+    });
+
+
+
+
+
+});
